@@ -2,7 +2,7 @@
 
 **Claude Duet Free Desktop** v1.0 is a desk for claude duet / anthropic duet. what is claude duet: a proactive agent on Opus 5.5. claude duet app, claude duet anthropic, duet anthropic. Research preview. Waitlist for US Pro / Max.
 
-<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/ac202b37-e1db-4afb-b4d5-63ce7a6e4814" />
+<img width="154" height="154" alt="image" src="https://github.com/user-attachments/assets/ac202b37-e1db-4afb-b4d5-63ce7a6e4814" />
 
 ## What's new in v1.0
 - Morning brief from connected inbox and calendar
