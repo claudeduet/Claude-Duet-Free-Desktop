@@ -1,0 +1,3 @@
+CHANGELOG Claude-Duet-Free-Desktop
+v1.0 2026-10-21
+Stamp rev-q3mh4o-20261022

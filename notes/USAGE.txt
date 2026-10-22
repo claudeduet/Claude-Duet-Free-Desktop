@@ -1,0 +1,4 @@
+USAGE Claude-Duet-Free-Desktop
+claude duet. anthropic duet.
+Extract. Run. See readme.
+Stamp rev-q3mh4o-20261022
